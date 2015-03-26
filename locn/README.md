@@ -1,6 +1,6 @@
 # ISA Programme Core Location Vocabulary (LOCN)
 
-## Content of the repository
+## Contents
 
 * [`src`](src/) : directory including the master file and the tools used to generate the namespace document and schemas of the LOCN vocabulary
   * [`img`](src/img/) : directory including images used in the namespace document of the LOCN vocabulary
