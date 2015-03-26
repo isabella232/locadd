@@ -1,4 +1,4 @@
-# ISA Programme Core Location Vocabulary (LOCN)
+# ISA Programme Core Location Vocabulary (LOCN): http://www.w3.org/ns/locn
 
 ## Contents
 
